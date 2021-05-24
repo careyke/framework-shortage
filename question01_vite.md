@@ -16,3 +16,5 @@
 >
 > 对应代码可以看[这里](https://github.com/facebook/react/blob/46491dce96e6a151706f51494edfd3cb7f09ed7f/packages/react-reconciler/src/ReactFiberHooks.new.js#L370)
 
+对应`issue`可以看[这里](https://github.com/vitejs/vite/issues/3527)
+
